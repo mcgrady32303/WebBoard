@@ -5,7 +5,7 @@ set up Web Hello World Project in OSGi
 
 This is Sample Project for OSGi learners.
 
-The article related is here: http://www.osgi.com.cn/article/7289380
+The article related is here: http://www.osgi.com.cn/
 
 We are now construting an OSGi Community in China.
 
